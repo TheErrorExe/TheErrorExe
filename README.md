@@ -2,4 +2,4 @@
 - 👀 I’m interested in Nintendo
 - 🌱 I’m currently learning Java
 - 📫 How to reach me theerrorexe@gmail.com
-- 😄 Pronouns: The-Error-(like .exe without .)
+- 😄 Pronouns: he/him
