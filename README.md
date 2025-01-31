@@ -3,6 +3,8 @@ Hi, I'm TheErrorExe!
 
 I'm from Germany. I like Nintendo Consoles. My Friendcodes: https://www.errexe.xyz/erroreng.html, My Website is https://www.errexe.xyz.
 
+![](https://komarev.com/ghpvc/?username=TheErrorExe)
+
 # My Projects:
 
 ReviveTube (A YouTube App for the Nintendo Wii): http://yt.old.errexe.xyz/
