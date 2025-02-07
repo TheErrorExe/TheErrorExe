@@ -1,7 +1,7 @@
 # Hi
 Hi, I'm TheErrorExe!
 
-I'm from Germany. I like Nintendo Consoles. My Friendcodes: https://www.errexe.xyz/erroreng.html, My Website is https://www.errexe.xyz.
+I'm from Germany. I like Nintendo Consoles. My Friendcodes: https://theerrorexe.dev/erroreng.html, My Website is https://theerrorexe.dev.
 
 ![](https://komarev.com/ghpvc/?username=TheErrorExe)
 
@@ -9,7 +9,7 @@ I'm from Germany. I like Nintendo Consoles. My Friendcodes: https://www.errexe.x
 
 ReviveTube (A YouTube App for the Nintendo Wii): http://yt.old.errexe.xyz/
 
-ReviveMii: https://revivemii.errexe.xyz/
+ReviveMii: https://revivemii.xyz/
 
 # Contact:
 
@@ -21,7 +21,7 @@ theerrorexe@errexe.xyz
 
 Discord: theerrorexe
 
-More Contact Infos in: https://www.errexe.xyz/erroreng.html
+More Contact Infos in: https://theerrorexe.dev/erroreng.html
 
 
 
