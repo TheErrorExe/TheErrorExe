@@ -23,6 +23,7 @@ Discord: theerrorexe
 
 More Contact Infos in: https://theerrorexe.dev/erroreng.html
 
+# I'm currently learning Java
 
 
 
