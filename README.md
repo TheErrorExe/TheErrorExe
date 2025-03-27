@@ -1,3 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=TheErrorExe)
 
-idk what to write here
+Linux User
+
+
+Discord: theerrorexe
+
+Contact: theerrorexe@gmail.com
+
+
+
+
+DMCA: dmca@errexe.xyz
