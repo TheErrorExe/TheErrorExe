@@ -5,7 +5,7 @@ Linux User
 
 Discord: theerrorexe
 
-Contact: theerrorexe@gmail.com
+Contact: theerrorexe@proton.me
 
 
 
