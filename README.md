@@ -16,3 +16,6 @@ Gitea Instance: https://git.errexe.xyz
 
 
 Wii YT Revival for the Wii: https://revivemii.xyz/revivetube/
+
+
+Eaglercraft Mirror: https://eaglercraft.errexe.xyz
